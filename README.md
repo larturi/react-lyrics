@@ -7,13 +7,13 @@
 Start in development mode
 
 ```shell
-npm run dev 
+yarn start
 ```
 
 **Prod**
 
 ```shell
-npm run build 
+yarn build 
 ```
 
 ##### Made with ❤️ by Leandro Arturi
